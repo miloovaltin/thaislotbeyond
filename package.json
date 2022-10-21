@@ -1,16 +1,16 @@
 {
-"name": "thaislotbeyond",
-"theme": "thaislot beyond",
-"version": "7.9.1",
-"description": "thaislot beyond ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"thaislot beyond",
-"thaislot beyond เครดิตฟรี",
-"thaislot beyond ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/thaislotbeyond",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "thaislotbeyond",
+  "theme": "thaislot beyond",
+  "version": "7.10.0",
+  "description": "thaislot beyond ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "thaislot beyond",
+    "thaislot beyond เครดิตฟรี",
+    "thaislot beyond ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/thaislotbeyond",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
